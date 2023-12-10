@@ -31,7 +31,7 @@
 ### Features
 
 1. **Main Window:**
-   - The Malware Scanner has a title "Malware Scanner."
+   - The Malware Scanner has a title "Anti Virus Software."
    - Users can choose to scan a directory or a specific file.
 
 2. **Scan Directory:**
